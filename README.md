@@ -67,3 +67,6 @@ FPS:
 
 - Avoided Layout Trashing as found in Dev Tools (https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
 
+Pizza-Resize
+
+- Simplefied and kicked determineDx() out, like Cameron did in his Video
