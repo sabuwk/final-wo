@@ -63,3 +63,7 @@ index.html
 - Smaller Pictures
 - Media="Print" for print.css
 
+FPS:
+
+- Avoided Layout Trashing as found in Dev Tools (https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
+
